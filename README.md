@@ -3,7 +3,7 @@
   <h2>Eu me chamo Gabriel e sou um cientista de dados.</h2>
 </p>
 
-Uso Python e bibliotecas como Pandas, Matplotlib, Scikit-learn, Keras e NLTK para desenvolver alguns projetos muito interessantes nos quais faço pré-processamentos, análises exploratórias de dados, visualizações, ETL, treinamento e avaliação de modelos ([Confira os projetos aqui]()). Amo trabalhar com Excel pela sua facilidade de uso e agilidade para testar ideias, além facilitar a obtenção de insights preliminares. Atualmente estou trabalhando em melhorar minhas habilidades no Power BI para facilitar a compreensão dos dados em uma análise repentina.
+Uso Python e bibliotecas como Pandas, Matplotlib, Scikit-learn, Keras e NLTK para desenvolver alguns projetos muito interessantes nos quais faço pré-processamentos, análises exploratórias de dados, visualizações, ETL, treinamento e avaliação de modelos ([Confira os projetos aqui](https://github.com/gabscor/data-science-projects)). Amo trabalhar com o Excel devido à sua facilidade de uso e à rapidez com que posso testar ideias, além de simplificar a obtenção de insights iniciais a partir dos dados. No momento, estou focado em aprimorar minhas habilidades no Power BI, visando tornar a análise de dados mais compreensível e ágil.
 
 No Bootcamp de Ciência de Dados da TripleTen aprendi muito sobre as principais bibliotecas Python, suas aplicações para resolver problemas de negócios, incluindo previsão de vendas, segmentação de clientes, detecção de fraudes, manutenção preditiva e churn prediction. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.
 
