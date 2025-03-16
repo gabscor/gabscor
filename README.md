@@ -5,7 +5,7 @@ Uso Python e bibliotecas como Pandas, Matplotlib, Scikit-learn, Keras e NLTK par
 
 Aprendi muito sobre as principais bibliotecas Python, suas aplicações para resolver problemas de negócios, incluindo previsão de vendas, segmentação de clientes, detecção de fraudes, manutenção preditiva e churn prediction. Sem dúvidas, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados. 
 
-Confira minha perfil visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/gabrielcsantos1/).
+Confira meu perfil visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/gabrielcsantos1/).
 
 Atualmente, sou analista de sistemas, trabalhando com TI. No dia a dia, aplico minhas habilidades analíticas para identificar problemas recorrentes em sistemas, propondo melhorias e ajustes que aumentam a eficiência, reduzem os custos e contribuem para a confiabilidade do serviço. Veja um dos dashboards que fiz, ele tem um modo claro também, mas ficariam muitas imagens aqui. Depois me diz o que achou!
 
